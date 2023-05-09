@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6/BbHL8np/xG5hn5L15m56CXJgahjvSizNajwG9tfEn4nmKWP7AiEQoSFxSFPL4zdHjXgHaD3gd5ym4/IfsLig==",
+  "dgSpecHash": "XZdZ6vXWQfgB3y8SOFNisHJHeZ2SxhtJejR67Fc/EviiT1xcK97T6+DrosQP6jH55F6+2ayevsu458e1lLLpUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Wasm\\UnoApp1.Wasm.csproj",
+  "projectFilePath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Wasm\\UnoApp1.Wasm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\massimiliano\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\massimiliano\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

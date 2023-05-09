@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PAhN4fOj5igCq7VDIJysKNpxHRyh5HooI2s8tv+/PvI3tPMtC31wAcE0Xs2KLvMdGsGsTLef8YoU9hYZtmL74A==",
+  "dgSpecHash": "ObTI2049BotWoU/N38IK8mPjOfF7JdI2X0MqfyhQNkzkQpD4dw68A9ojToRykKCwlFDSrTdxODXDITuAf4tcuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Tests\\UnoApp1.Tests.csproj",
+  "projectFilePath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Tests\\UnoApp1.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\massimiliano\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\massimiliano\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

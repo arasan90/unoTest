@@ -176,12 +176,12 @@
 -d "C:\Users\massimiliano\.nuget\packages\system.speech\7.0.0\runtimes\win\lib\net7.0" 
 -d "C:\Users\massimiliano\.nuget\packages\system.threading.accesscontrol\7.0.0\runtimes\win\lib\net7.0" 
 -d "C:\Users\massimiliano\.nuget\packages\system.windows.extensions\7.0.0\runtimes\win\lib\net7.0" 
--d "C:\Users\massimiliano\Projects\UnoApp1\UnoApp1.DataContracts\bin\Release\net7.0" 
--d "C:\Users\massimiliano\Projects\UnoApp1\UnoApp1\bin\Release\net7.0" 
+-d "C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.DataContracts\bin\Release\net7.0" 
+-d "C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1\bin\Release\net7.0" 
 -d "C:\Users\massimiliano\AppData\Local\Temp\dotnet-runtime-wasm-windows-585dcd7-7db1c333330-4019238418-Release\runtimes\browser-wasm\lib\net7.0"
  -a "C:\Users\massimiliano\.nuget\packages\uno.wasm.bootstrap\7.0.19\build\..\tools\support\Uno.Wasm.TimezoneData.dll"
 --deterministic --disable-opt unreachablebodies --used-attrs-only true 
 --keep-metadata all 
 --feature Windows.ApplicationModel.DataTransfer.DragDrop.ExternalSupport true --feature System.Diagnostics.Debugger.IsSupported false --feature System.Diagnostics.Tracing.EventSource.IsSupported false --feature System.GC.Server true --feature System.Globalization.Invariant false --feature System.Net.Http.EnableActivityPropagation false --feature System.Reflection.Metadata.MetadataUpdater.IsSupported false --feature System.Resources.UseSystemResourceKeys true --feature System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization false --feature System.Text.Encoding.EnableUnsafeUTF7Encoding false 
---verbose -b true -a "C:\Users\massimiliano\Projects\UnoApp1\UnoApp1.Wasm\obj\Release\net7.0\linker-in\UnoApp1.Wasm.dll" -d "C:\Users\massimiliano\Projects\UnoApp1\UnoApp1.Wasm\obj\Release\net7.0\dist_work\managed"
--out "C:\Users\massimiliano\Projects\UnoApp1\UnoApp1.Wasm\obj\Release\net7.0\dist_work\managed"
+--verbose -b true -a "C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.Wasm\obj\Release\net7.0\linker-in\UnoApp1.Wasm.dll" -d "C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.Wasm\obj\Release\net7.0\dist_work\managed"
+-out "C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.Wasm\obj\Release\net7.0\dist_work\managed"

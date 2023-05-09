@@ -12,3 +12,17 @@ C:\Users\massimiliano\Projects\UnoApp1\UnoApp1.DataContracts\obj\Debug\net7.0\re
 C:\Users\massimiliano\Projects\UnoApp1\UnoApp1.DataContracts\obj\Debug\net7.0\UnoApp1.DataContracts.xml
 C:\Users\massimiliano\Projects\UnoApp1\UnoApp1.DataContracts\obj\Debug\net7.0\UnoApp1.DataContracts.pdb
 C:\Users\massimiliano\Projects\UnoApp1\UnoApp1.DataContracts\obj\Debug\net7.0\ref\UnoApp1.DataContracts.dll
+C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.DataContracts\bin\Debug\net7.0\UnoApp1.DataContracts.deps.json
+C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.DataContracts\bin\Debug\net7.0\UnoApp1.DataContracts.dll
+C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.DataContracts\bin\Debug\net7.0\UnoApp1.DataContracts.pdb
+C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.DataContracts\bin\Debug\net7.0\UnoApp1.DataContracts.xml
+C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.DataContracts\obj\Debug\net7.0\UnoApp1.DataContracts.csproj.AssemblyReference.cache
+C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.DataContracts\obj\Debug\net7.0\UnoApp1.DataContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.DataContracts\obj\Debug\net7.0\UnoApp1.DataContracts.AssemblyInfoInputs.cache
+C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.DataContracts\obj\Debug\net7.0\UnoApp1.DataContracts.AssemblyInfo.cs
+C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.DataContracts\obj\Debug\net7.0\UnoApp1.DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.DataContracts\obj\Debug\net7.0\UnoApp1.DataContracts.dll
+C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.DataContracts\obj\Debug\net7.0\refint\UnoApp1.DataContracts.dll
+C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.DataContracts\obj\Debug\net7.0\UnoApp1.DataContracts.xml
+C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.DataContracts\obj\Debug\net7.0\UnoApp1.DataContracts.pdb
+C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.DataContracts\obj\Debug\net7.0\ref\UnoApp1.DataContracts.dll

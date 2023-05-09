@@ -1,0 +1,1 @@
+C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.Windows\UnoApp1.Windows.csproj;x64

@@ -10282,11 +10282,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Wasm\\UnoApp1.Wasm.csproj",
+      "projectUniqueName": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Wasm\\UnoApp1.Wasm.csproj",
       "projectName": "UnoApp1.Wasm",
-      "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Wasm\\UnoApp1.Wasm.csproj",
+      "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Wasm\\UnoApp1.Wasm.csproj",
       "packagesPath": "C:\\Users\\massimiliano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Wasm\\obj\\",
+      "outputPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Wasm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10308,11 +10308,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
-              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
+            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
+              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
             },
-            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1\\UnoApp1.csproj": {
-              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1\\UnoApp1.csproj"
+            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1\\UnoApp1.csproj": {
+              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1\\UnoApp1.csproj"
             }
           }
         }

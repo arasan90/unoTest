@@ -1,10 +1,17 @@
 {
-  "background_color": "#ffffff",
-  "description": "UnoApp1",
+  "lang": "en-us",
+  "name": "Temperature converter app",
+  "short_name": "Temperature converter",
+  "description": "A basic temperature converter application that can convert to and from Celsius, Kelvin, and Fahrenheit",
+  "start_url": "/",
+  "background_color": "#2f3d58",
+  "theme_color": "#2f3d58",
+  "orientation": "any",
   "display": "standalone",
-  "name": "UnoApp1",
-  "short_name": "UnoApp1",
-  "start_url": "/index.html",
-  "theme_color": "#ffffff",
-  "scope": "/"
+  "icons": [
+    {
+      "src": "package_06bd22d8ce839885cea012e04fdb5d17c40adf14//icon.png",
+      "sizes": "512x512"
+    }
+  ]
 }

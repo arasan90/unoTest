@@ -4,9 +4,5 @@
     <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
     <ActiveDebugFramework>net7.0-ios</ActiveDebugFramework>
   </PropertyGroup>
-  <ItemGroup>
-    <None Update="C:\Users\massimiliano\Projects\UnoApp1\UnoApp1.Base\AppHead.xaml">
-      <SubType>Designer</SubType>
-    </None>
-  </ItemGroup>
+  <ItemGroup />
 </Project>

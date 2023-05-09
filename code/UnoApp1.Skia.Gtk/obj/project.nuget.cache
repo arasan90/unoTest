@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PxgY/nPy3G1oc1NyxVxsGvfiXrw0MwaB6iUn2FWLWMN75SjnsoJi2HSGQbBD8W6lHTIni8ifJNIHSYTSqAtFkA==",
+  "dgSpecHash": "Pjq9nqdHWUwsxQzlWeXRY0yFqUQO4uybp//Hv9AqEYIwWktz10j3kbUP6UwtkwM2tPJ+KPw510H7W11qymIbMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Skia.Gtk\\UnoApp1.Skia.Gtk.csproj",
+  "projectFilePath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Skia.Gtk\\UnoApp1.Skia.Gtk.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\massimiliano\\.nuget\\packages\\atksharp\\3.24.24.38\\atksharp.3.24.24.38.nupkg.sha512",
     "C:\\Users\\massimiliano\\.nuget\\packages\\cairosharp\\3.24.24.38\\cairosharp.3.24.24.38.nupkg.sha512",

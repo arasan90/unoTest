@@ -14422,11 +14422,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Windows\\UnoApp1.Windows.csproj",
+      "projectUniqueName": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Windows\\UnoApp1.Windows.csproj",
       "projectName": "UnoApp1.Windows",
-      "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Windows\\UnoApp1.Windows.csproj",
+      "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Windows\\UnoApp1.Windows.csproj",
       "packagesPath": "C:\\Users\\massimiliano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Windows\\obj\\",
+      "outputPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Windows\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -14448,11 +14448,11 @@
         "net7.0-windows10.0.19041": {
           "targetAlias": "net7.0-windows10.0.19041.0",
           "projectReferences": {
-            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
-              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
+            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
+              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
             },
-            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1\\UnoApp1.csproj": {
-              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1\\UnoApp1.csproj"
+            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1\\UnoApp1.csproj": {
+              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1\\UnoApp1.csproj"
             }
           }
         }

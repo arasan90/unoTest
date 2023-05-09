@@ -32,7 +32,9 @@
 		<DefineConstants>$(DefineConstants);USE_UITESTS</DefineConstants>
 	</PropertyGroup>
 	<ItemGroup>
-		<Content Include="manifest.webmanifest" />
+		<Content Include="manifest.webmanifest">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Content>
 	</ItemGroup>
 	<ItemGroup>
 		<EmbeddedResource Include="WasmCSS\Fonts.css" />

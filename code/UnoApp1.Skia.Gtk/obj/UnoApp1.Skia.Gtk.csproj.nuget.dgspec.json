@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Skia.Gtk\\UnoApp1.Skia.Gtk.csproj": {}
+    "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Skia.Gtk\\UnoApp1.Skia.Gtk.csproj": {}
   },
   "projects": {
-    "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
+    "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj",
+        "projectUniqueName": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj",
         "projectName": "UnoApp1.DataContracts",
-        "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj",
+        "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj",
         "packagesPath": "C:\\Users\\massimiliano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\obj\\",
+        "outputPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Skia.Gtk\\UnoApp1.Skia.Gtk.csproj": {
+    "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Skia.Gtk\\UnoApp1.Skia.Gtk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Skia.Gtk\\UnoApp1.Skia.Gtk.csproj",
+        "projectUniqueName": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Skia.Gtk\\UnoApp1.Skia.Gtk.csproj",
         "projectName": "UnoApp1.Skia.Gtk",
-        "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Skia.Gtk\\UnoApp1.Skia.Gtk.csproj",
+        "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Skia.Gtk\\UnoApp1.Skia.Gtk.csproj",
         "packagesPath": "C:\\Users\\massimiliano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Skia.Gtk\\obj\\",
+        "outputPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Skia.Gtk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,11 +97,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
-                "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
+              "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
+                "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
               },
-              "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1\\UnoApp1.csproj": {
-                "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1\\UnoApp1.csproj"
+              "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1\\UnoApp1.csproj": {
+                "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1\\UnoApp1.csproj"
               }
             }
           }
@@ -229,14 +229,14 @@
         }
       }
     },
-    "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1\\UnoApp1.csproj": {
+    "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1\\UnoApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1\\UnoApp1.csproj",
+        "projectUniqueName": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1\\UnoApp1.csproj",
         "projectName": "UnoApp1",
-        "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1\\UnoApp1.csproj",
+        "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1\\UnoApp1.csproj",
         "packagesPath": "C:\\Users\\massimiliano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1\\obj\\",
+        "outputPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -263,40 +263,40 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
-                "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
+              "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
+                "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
               }
             }
           },
           "net7.0-android33.0": {
             "targetAlias": "net7.0-android",
             "projectReferences": {
-              "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
-                "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
+              "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
+                "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
               }
             }
           },
           "net7.0-ios16.1": {
             "targetAlias": "net7.0-ios",
             "projectReferences": {
-              "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
-                "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
+              "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
+                "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
               }
             }
           },
           "net7.0-maccatalyst16.1": {
             "targetAlias": "net7.0-maccatalyst",
             "projectReferences": {
-              "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
-                "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
+              "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
+                "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
               }
             }
           },
           "net7.0-windows10.0.19041": {
             "targetAlias": "net7.0-windows10.0.19041",
             "projectReferences": {
-              "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
-                "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
+              "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
+                "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
               }
             }
           }

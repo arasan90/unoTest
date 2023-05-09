@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G5XUN1Kyx+KnAxbrALs5LTkNdOc1qlHpQiFxjzBBSAUMYv5Sb2psXuzQOpTmbwiUgWbw+g8rDKhMVOoXrKswew==",
+  "dgSpecHash": "tTA7T67+lHA80RGDLM3m1hh8VJoIpW0rj58qs5RDN9Ygln+um2LFLhsREtBXilmv6BIx4IjnX2l7MtcyecI09g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj",
+  "projectFilePath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -60868,11 +60868,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Mobile\\UnoApp1.Mobile.csproj",
+      "projectUniqueName": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Mobile\\UnoApp1.Mobile.csproj",
       "projectName": "UnoApp1.Mobile",
-      "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Mobile\\UnoApp1.Mobile.csproj",
+      "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Mobile\\UnoApp1.Mobile.csproj",
       "packagesPath": "C:\\Users\\massimiliano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Mobile\\obj\\",
+      "outputPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Mobile\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -60897,33 +60897,33 @@
         "net7.0-android33.0": {
           "targetAlias": "net7.0-android",
           "projectReferences": {
-            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
-              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
+            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
+              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
             },
-            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1\\UnoApp1.csproj": {
-              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1\\UnoApp1.csproj"
+            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1\\UnoApp1.csproj": {
+              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1\\UnoApp1.csproj"
             }
           }
         },
         "net7.0-ios16.1": {
           "targetAlias": "net7.0-ios",
           "projectReferences": {
-            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
-              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
+            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
+              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
             },
-            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1\\UnoApp1.csproj": {
-              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1\\UnoApp1.csproj"
+            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1\\UnoApp1.csproj": {
+              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1\\UnoApp1.csproj"
             }
           }
         },
         "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
           "projectReferences": {
-            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
-              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
+            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
+              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
             },
-            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1\\UnoApp1.csproj": {
-              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1\\UnoApp1.csproj"
+            "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1\\UnoApp1.csproj": {
+              "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1\\UnoApp1.csproj"
             }
           }
         }

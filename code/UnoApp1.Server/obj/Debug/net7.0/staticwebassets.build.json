@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QQxr8Hyv2eJJYzP+fsZlTq69oQskBUcujhqMoU0V4HA=",
+  "Source": "UnoApp1.Server",
+  "BasePath": "_content/UnoApp1.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

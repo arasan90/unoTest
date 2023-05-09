@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Server\\UnoApp1.Server.csproj": {}
+    "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Server\\UnoApp1.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
+    "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj",
+        "projectUniqueName": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj",
         "projectName": "UnoApp1.DataContracts",
-        "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj",
+        "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj",
         "packagesPath": "C:\\Users\\massimiliano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\obj\\",
+        "outputPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -36,6 +36,10 @@
           }
         },
         "warningProperties": {
+          "allWarningsAsErrors": true,
+          "noWarn": [
+            "NU1507"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -64,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Server\\UnoApp1.Server.csproj": {
+    "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Server\\UnoApp1.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Server\\UnoApp1.Server.csproj",
+        "projectUniqueName": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Server\\UnoApp1.Server.csproj",
         "projectName": "UnoApp1.Server",
-        "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Server\\UnoApp1.Server.csproj",
+        "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Server\\UnoApp1.Server.csproj",
         "packagesPath": "C:\\Users\\massimiliano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Server\\obj\\",
+        "outputPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,13 +97,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
-                "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
+              "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj": {
+                "projectPath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.DataContracts\\UnoApp1.DataContracts.csproj"
               }
             }
           }
         },
         "warningProperties": {
+          "allWarningsAsErrors": true,
+          "noWarn": [
+            "NU1507"
+          ],
           "warnAsError": [
             "NU1605"
           ]

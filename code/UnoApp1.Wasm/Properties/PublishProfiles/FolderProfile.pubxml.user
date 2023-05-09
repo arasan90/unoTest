@@ -4,8 +4,8 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\massimiliano\Projects\UnoApp1\UnoApp1.Wasm\bin\Release\net7.0\publish\</_PublishTargetUrl>
-    <History>True|2023-05-09T21:53:35.3474633Z;</History>
+    <_PublishTargetUrl>C:\Users\massimiliano\Projects\UnoApp1\code\UnoApp1.Wasm\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2023-05-09T22:23:33.1702538Z;True|2023-05-09T23:53:35.3474633+02:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

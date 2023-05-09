@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XH5Ru8d188hC8kQOswiwXne2F2KA+z3PbNKyEp2EHxAABJi/KiNhrqbcZ4IUicQy8UcqQ/bl5II1ICm47xf1oQ==",
+  "dgSpecHash": "YsgmXTiYk3p0Y7zCn9E4hHINUxjHf2N1AQZ64IW8suX7UusMkMef5QQLMS7eguAFEZUW6AQoP/2hFAlKruuISQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Server\\UnoApp1.Server.csproj",
+  "projectFilePath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.Server\\UnoApp1.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\massimiliano\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\massimiliano\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

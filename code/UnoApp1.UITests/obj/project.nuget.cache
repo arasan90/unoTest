@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GG+CKZd9blbFCOi8p+pByUhYs4iYlOAhdfwuDwwBA+ePWyfCJsZdSZMwWKqNjTAkdIpDhBXH/GCKDb5f2xvCDw==",
+  "dgSpecHash": "anvRVhQ3KF7QOsxDX1PcoNcH8+S/Mn0KFKrwQ6dXTJ+gfdBWKoq0TiW5qw/YKsVZfathMQPoFj089f+f0u9hnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.UITests\\UnoApp1.UITests.csproj",
+  "projectFilePath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\code\\UnoApp1.UITests\\UnoApp1.UITests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\massimiliano\\.nuget\\packages\\fluentassertions\\6.10.0\\fluentassertions.6.10.0.nupkg.sha512",
     "C:\\Users\\massimiliano\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
