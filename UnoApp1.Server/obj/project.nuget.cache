@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "EwBFDawCAjQ+ifq3QG73fjItfk0wIBXd4tdqLipCMkpwDcqR/2Xs9v1jEeTc+3ai/ajowhw5xZloJoYYINEIQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\massimiliano\\Projects\\UnoApp1\\UnoApp1.Server\\UnoApp1.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\massimiliano\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\massimiliano\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\massimiliano\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\massimiliano\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\massimiliano\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\massimiliano\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\massimiliano\\.nuget\\packages\\uno.wasm.bootstrap.server\\7.0.19\\uno.wasm.bootstrap.server.7.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
