@@ -3,14 +3,14 @@
   "name": "Temperature converter app",
   "short_name": "Temperature converter",
   "description": "A basic temperature converter application that can convert to and from Celsius, Kelvin, and Fahrenheit",
-  "start_url": "/",
+  "start_url": "https://arasan90.github.io/unoTest",
   "background_color": "#2f3d58",
   "theme_color": "#2f3d58",
   "orientation": "any",
   "display": "standalone",
   "icons": [
     {
-      "src": "package_a79305f2b0eee142942359db09060e3c21e316dc//icon.png",
+      "src": "package_f28302e1e309c587a42ce9d91ebad1b8e120e96d/https://arasan90.github.io/unoTest/icon.png",
       "sizes": "512x512"
     }
   ]

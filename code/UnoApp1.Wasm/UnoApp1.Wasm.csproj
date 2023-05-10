@@ -32,6 +32,10 @@
 		<DefineConstants>$(DefineConstants);USE_UITESTS</DefineConstants>
 	</PropertyGroup>
 	<ItemGroup>
+	  <None Remove="icon.png" />
+	</ItemGroup>
+	<ItemGroup>
+		<Content Include="icon.png" />
 		<Content Include="manifest.webmanifest">
 		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
